@@ -7,4 +7,4 @@ if entrada == 'entrada':
     print('Você entrou no sistema')
 
 elif entrada == 'sair':
-    print('Você saiu do sistema')
+    print('Você saiu do sistema') 
