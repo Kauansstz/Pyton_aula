@@ -1,10 +1,13 @@
 # if / elif   / else
-# se / senao se / se nao
+# se / se nao se / se nao 
 
 entrada = input('Você quer "Entrar" ou "Sair"? ')
 
-if entrada == 'entrada': 
+if entrada == 'entrar': 
     print('Você entrou no sistema')
 
 elif entrada == 'sair':
-    print('Você saiu do sistema') 
+   print('Você saiu do sistema') 
+
+else:
+    print('Você não digitou nem entrar e nem sair')
