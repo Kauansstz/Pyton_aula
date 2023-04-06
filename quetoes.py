@@ -1,5 +1,2 @@
-
-nome = 'Luiz'
-idade = 23
-formato = '{n} tem {i} anos'
-print( formato .format ( n = nome, i= idade))
+if 1 and 1 :
+    print( True and 1 and False)
