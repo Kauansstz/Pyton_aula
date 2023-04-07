@@ -5,7 +5,7 @@ while True:
     senha_digitada = int(senha_digitada)
 
  
-    if entrada == 'E' and senha_digitada == senha_permitida: 
+    if (entrada == 'E' or entrada == 'e') and senha_digitada == senha_permitida: 
         print('Você entrou no sistema')
         print('Bem - Vindo!"')
         break
