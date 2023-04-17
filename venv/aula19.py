@@ -19,4 +19,4 @@ if vel_carro_pass_radar_1:
     print('Velocidade carro passou do radar 1')
 
     if carro_multado_radar_1 and vel_carro_pass_radar_1:
-        print('carro multado em radar 1')
+        print('carro multado em radar 1') 
