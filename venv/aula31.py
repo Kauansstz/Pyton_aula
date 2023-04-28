@@ -6,7 +6,6 @@ Métodos úteis
     append, insert, pop, del, clear, extend, +
 Create Read update  Delete
 Criar, ler, alterar, apagar = Lista[i] (Crud)
-
 """
 
 lista = [ 10,20,30,40] 
