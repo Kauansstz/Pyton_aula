@@ -1,5 +1,5 @@
-"""
-Cuidados com dados mutáveis
-= - copiado o valor(imutáveis)
-= - aponta para o mesmo valor na memória(mutável)
-"""
+lista = ['Maria', 'Helena', 'Julya']
+indice = range(len(lista))
+
+for indice in indice:
+    print(indice, lista[indice])
