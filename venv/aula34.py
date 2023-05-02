@@ -1,2 +1,6 @@
-nomes1, nomes2 = [ 'Maria' , 'Helena' , 'Luiz']
-print(nomes2)
+"""
+*resto = *_
+"""
+
+_, _, nome, *resto = [ 'Maria' , 'Helena' , 'Luiz']
+print(nome)
