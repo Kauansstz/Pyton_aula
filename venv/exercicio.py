@@ -22,3 +22,15 @@
 def duplicar(numero):
     return numero * 2
 
+def triplicar(numero):
+    return numero * 3
+
+def quadriplicar(numero):
+    return numero * 4
+
+numero = input('Digite um numero: ')
+numero_float = float(numero)
+
+print(duplicar(numero_float))
+print(triplicar(numero_float))
+print(quadriplicar(numero_float))
