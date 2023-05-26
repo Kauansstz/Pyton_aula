@@ -14,8 +14,8 @@ p1 = {
     'Sobrenome':'Paluo',
 }
 
-# print(p1['nome'])
-# print(p1.get('nome', 'não existe'))
+print(p1['nome'])
+print(p1.get('nome', 'não existe'))
 # 
 # nome= p1.pop('nome')
 # print(nome)
