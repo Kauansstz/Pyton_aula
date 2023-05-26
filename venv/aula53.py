@@ -15,5 +15,10 @@ s1 = {'Pedro'} # com dados
 # - ele não garantem orfem;
 # - eles são iteráveis (for, in, not in)
 
+l1= [1, 2, 3, 3, 3,3 , 3, 1]
+s1 = set(l1)
+l2 = list(s1)
+print(l2)
+
 # Métodos úteis:
 # add, update, clear, discard
