@@ -5,7 +5,7 @@ while True:
 
     if 'l' in letras:
         quant= (len(letras))
-        print(f'Parabens você acertou!\n Você teve {quant} tentativas')
+        print(f'Parabens você acertou!\nVocê teve {quant} tentativas')
         break
 
     print(letras)
