@@ -35,3 +35,4 @@ s2 = sorted(lista, key=lambda item: item['sobrenome'])
 
 exibir(s1)
 exibir(s2)
+exibir(s2)
